@@ -7,7 +7,40 @@
 		<key>Landmarks.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>WatchLandmarks (Notification).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>WatchLandmarks.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E0DDD52F250C88560018CB15</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E0ED020A250662EF0026849B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E0ED0220250662F30026849B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E0ED022B250662F30026849B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
